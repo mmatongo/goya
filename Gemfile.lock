@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cgi (0.3.6)
+    erb (4.0.3)
+      cgi (>= 0.3.3)
+    webrick (1.8.1)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  erb
+  webrick (~> 1.8)
+
+BUNDLED WITH
+   2.4.12
